@@ -1,1 +1,1 @@
-# KiuTeamProject
+경일대학교 팀 프로젝트 공간
