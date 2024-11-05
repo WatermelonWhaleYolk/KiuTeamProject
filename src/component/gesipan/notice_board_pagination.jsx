@@ -2,7 +2,7 @@ import './notice_board_pagination.css'
 
 export default function Pagination() {
   return(
-    // a href달기
+    // a href 달기
     <nav aria-label="게시판 페이지네이션">
       <ul className="pagination">
         <li className="page-item">&laquo;</li>
