@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+
+}
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%
+}
+.login-form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.username, .password{
+    border-radius: 5px;
+}
+.find{
+    display: flex;
+    justify-self: space-between;
+    align-items: center;
+}
+.login-button{
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
