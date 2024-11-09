@@ -1,0 +1,21 @@
+.pagination {
+  display:flex;
+  justify-content:center;
+  position:absolute;
+  top:75%;
+  left:50%;
+  transform:translate(-50%);
+  width:20%;
+  border:1px solid black;
+}
+
+.page-item {
+  margin: 0 5px;
+  padding: 8px 12px;
+  border-radius: 5px;
+  background-color: #f1f1f1;
+}
+
+.page-item:hover {
+  background-color: #dddddd;
+}
